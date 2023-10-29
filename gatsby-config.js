@@ -10,5 +10,10 @@ module.exports = {
     options: {
       icon: `src/images/favicon.png`,
     },
+    resolve: `gatsby-source-rest-api`,
+    options: {
+      endpoints: ["https://freetestapi.com/api/v1/dogs",  "https://randomuser.me/api/"],
+  
+    },
   }],
 };

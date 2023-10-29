@@ -18,7 +18,7 @@ cinza: D8D8D8 */
 
 .main {
     grid-area: main;
-    padding: 10px;
+    padding: 40px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -36,4 +36,16 @@ cinza: D8D8D8 */
 .main th {
     text-align: left;
     margin-bottom: 20px;
+}
+
+.btn.btn-dark {
+    background-color: #25d366;
+    color:black;
+    font-weight: bold;
+}
+
+.btn.btn-dark:hover {
+    background-color: #075E54;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
 }

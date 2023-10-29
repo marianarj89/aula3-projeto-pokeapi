@@ -7,7 +7,7 @@ const IndexPage = () => {
       <h1>Projeto 2 Aula 3 - PokeAPI</h1>
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <div>
-        <p> lorem ipsum 1 </p>
+      <button type="button" class="btn btn-dark">💬 Estamos online! Deixe uma mensagem</button>
         <p> lorem ipsum 2 </p>
       </div>
     </Layout>
