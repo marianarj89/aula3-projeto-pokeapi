@@ -1,0 +1,15 @@
+.footer {
+    grid-area: footer;
+    background-color: #FFD84A;
+    padding: 10px;
+    color:#0E0E0E;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+}
